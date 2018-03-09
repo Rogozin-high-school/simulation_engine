@@ -48,7 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\CameraView.cs" />
      <Compile Include="Assets\DataUtil.cs" />
+     <Compile Include="Assets\GyroVisualizer.cs" />
      <Compile Include="Assets\MagneticFieldManager.cs" />
+     <Compile Include="Assets\Message.cs" />
+     <Compile Include="Assets\Server.cs" />
      <Compile Include="Assets\VisualManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
